@@ -1,0 +1,23 @@
+Word Count:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/wc_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/wc_output/part-00000
+
+Hour Count:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/hc_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/hc_output/part-00000
+
+URL Count:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/url_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/url_output/part-00000
+
+Co-Occurrence:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/co_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/co_output/part-00000
+
+Average Characters:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/char_avg_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/char_avg_output/part-00000
+
+Support Messages:
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/sm_output/_SUCCESS
+https://s3-us-west-2.amazonaws.com/hamlin-mids-assignment4/output/sm_output/part-00000
